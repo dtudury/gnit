@@ -1,0 +1,23 @@
+{
+  "name": "gnit",
+  "version": "0.0.0",
+  "description": "promise wrapped git for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dtudury/gnit.git"
+  },
+  "author": "dtudury",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "b03e4245df415128d1a0350d7cd3c31a7499db18",
+  "bugs": {
+    "url": "https://github.com/dtudury/gnit/issues"
+  },
+  "dependencies": {
+    "when": "~2.8.0"
+  }
+}
